@@ -42,10 +42,10 @@ func main() {
 Output:
 ```
 === Configuration ===
-APIKey:      ********xyz
+APIKey     : ********xyz
 Environment: development
-Port:        8080
-SecretKey:   ********
+Port       : 8080
+SecretKey  : ********
 ```
 
 ### Customization
